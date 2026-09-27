@@ -1,0 +1,13 @@
+[GRAFO1]
+Quito,Guayaquil
+Quito,Cuenca
+Guayaquil,Manta
+Cuenca,Loja
+Manta,Portoviejo
+
+[GRAFO2]
+PC1,PC2
+PC1,PC3
+PC2,PC4
+PC3,PC5
+PC4,PC5

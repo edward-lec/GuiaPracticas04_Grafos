@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\TAREAS DE SISTEMAS DIGITALES\SumadorCompleto\TAREA SEMANA14\Guia4_Grafos\bin\Debug\net10.0\Guia4_Grafos.exe
+C:\Users\User\OneDrive\Documentos\TAREAS DE SISTEMAS DIGITALES\SumadorCompleto\TAREA SEMANA14\Guia4_Grafos\bin\Debug\net10.0\Guia4_Grafos.deps.json
+C:\Users\User\OneDrive\Documentos\TAREAS DE SISTEMAS DIGITALES\SumadorCompleto\TAREA SEMANA14\Guia4_Grafos\bin\Debug\net10.0\Guia4_Grafos.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\TAREAS DE SISTEMAS DIGITALES\SumadorCompleto\TAREA SEMANA14\Guia4_Grafos\bin\Debug\net10.0\Guia4_Grafos.dll
+C:\Users\User\OneDrive\Documentos\TAREAS DE SISTEMAS DIGITALES\SumadorCompleto\TAREA SEMANA14\Guia4_Grafos\bin\Debug\net10.0\Guia4_Grafos.pdb
+C:\Users\User\OneDrive\Documentos\TAREAS DE SISTEMAS DIGITALES\SumadorCompleto\TAREA SEMANA14\Guia4_Grafos\obj\Debug\net10.0\Guia4_Grafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\TAREAS DE SISTEMAS DIGITALES\SumadorCompleto\TAREA SEMANA14\Guia4_Grafos\obj\Debug\net10.0\Guia4_Grafos.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\TAREAS DE SISTEMAS DIGITALES\SumadorCompleto\TAREA SEMANA14\Guia4_Grafos\obj\Debug\net10.0\Guia4_Grafos.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\TAREAS DE SISTEMAS DIGITALES\SumadorCompleto\TAREA SEMANA14\Guia4_Grafos\obj\Debug\net10.0\Guia4_Grafos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\TAREAS DE SISTEMAS DIGITALES\SumadorCompleto\TAREA SEMANA14\Guia4_Grafos\obj\Debug\net10.0\Guia4_Grafos.dll
+C:\Users\User\OneDrive\Documentos\TAREAS DE SISTEMAS DIGITALES\SumadorCompleto\TAREA SEMANA14\Guia4_Grafos\obj\Debug\net10.0\refint\Guia4_Grafos.dll
+C:\Users\User\OneDrive\Documentos\TAREAS DE SISTEMAS DIGITALES\SumadorCompleto\TAREA SEMANA14\Guia4_Grafos\obj\Debug\net10.0\Guia4_Grafos.pdb
+C:\Users\User\OneDrive\Documentos\TAREAS DE SISTEMAS DIGITALES\SumadorCompleto\TAREA SEMANA14\Guia4_Grafos\obj\Debug\net10.0\Guia4_Grafos.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\TAREAS DE SISTEMAS DIGITALES\SumadorCompleto\TAREA SEMANA14\Guia4_Grafos\obj\Debug\net10.0\ref\Guia4_Grafos.dll
